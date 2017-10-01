@@ -77,14 +77,14 @@ hr {
 }
 .btn.btn-primary {
   background: transparent;
-  color: #199cdb;
+  color: #40c33d;
   padding: 12px 30px;
-  border: 1px solid #199cdb;
+  border: 1px solid #40c33d;
   border-radius: 5px;
 }
 .btn.btn-primary:hover,
 .btn.btn-primary:focus {
-  background: #199cdb;
+  background: #40c33d;
   color: #fff;
 }
 .column-title {
@@ -111,7 +111,7 @@ ul.nostyle i {
   color: #45aed6;
 }
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #199cdb;
+    background-color: #40c33d;
 }
 .scaleIn {
   -webkit-animation-name: scaleIn;
@@ -155,7 +155,7 @@ font-size: 15px;font-weight: 500;}
 *******Header******
 **************************/
 #main-nav.navbar-default {background: #ffffff;border-top: 4px solid #3DC370;}
-#main-nav.navbar-default .navbar-nav > li.active > a, #main-nav.navbar-default .navbar-nav > li.open > a, #main-nav.navbar-default .navbar-nav > li:hover > a {background: none;color: #199cdb;}
+#main-nav.navbar-default .navbar-nav > li.active > a, #main-nav.navbar-default .navbar-nav > li.open > a, #main-nav.navbar-default .navbar-nav > li:hover > a {background: none;color: #40c33d;}
 .navbar.navbar-default {
   border: 0;
   border-radius: 0;
@@ -164,7 +164,7 @@ font-size: 15px;font-weight: 500;}
 .navbar.navbar-default .navbar-toggle {
   margin-top: 20px;
   background: none;
-  border-color: #199cdb;
+  border-color: #40c33d;
 }
 .navbar.navbar-default .navbar-brand {
   height: auto;
@@ -281,7 +281,7 @@ font-size: 15px;font-weight: 500;}
 }
 #main-slider .owl-prev:hover,
 #main-slider .owl-next:hover {
-  background-color: #199cdb;
+  background-color: #40c33d;
 }
 #main-slider .owl-prev {
   left: -35px;
@@ -375,7 +375,7 @@ font-weight:normal;
 }
 .media.service-box .pull-left {
   margin-right: 20px;
-  border: 1px dashed #199cdb;
+  border: 1px dashed #40c33d;
   padding: 10px;
   border-radius: 15px;
   border-radius: 50%;
@@ -387,7 +387,7 @@ font-weight:normal;
   text-align: center;
   width: 80px;
   color: #ffffff;
-  background: #199cdb;
+  background: #40c33d;
   transition: background-color 400ms, background-color 400ms;
   position: relative;
   border-radius: 50%;
@@ -404,7 +404,7 @@ span.food-price {
 }
 #portfolio {
   padding: 100px 0;
-  background: #2a2a32;
+  background: #012a3e;
   color: #fff;
 }
 #portfolio h2{
@@ -426,14 +426,14 @@ span.food-price {
   padding: 7px 15px;
   margin:0px 2px;
   /* background: #fff; */
-  color: #199cdb;
+  color: #40c33d;
   position: relative;
-  border: 1px solid #199cdb;
+  border: 1px solid #40c33d;
   border-radius: 5px;
 }
 #portfolio .portfolio-filter > li a:hover,
 #portfolio .portfolio-filter > li a.active {
-  background: #199cdb;
+  background: #40c33d;
   color: #fff;
   border-radius: 5px;
 } 
@@ -569,7 +569,7 @@ transition: all .2s ease-in-out;
 margin-bottom: 15px;
 }
 #testimonial {
-  background: #2a2a32;
+  background: #012a3e;
   background-size: cover;
   padding: 100px 0;
   color: #fff;
@@ -840,7 +840,7 @@ border-radius: 0;
   padding-top: 30px;
   padding-bottom: 30px;
   color: #9a9a9a;
-  background: #2a2a32;
+  background: #012a3e;
 }
 #footer a {
   color: #fff;
@@ -925,27 +925,28 @@ padding: 7px 0 0;
 
 /* Pricing header */
 .price .header {
-    background-color: #199cdb;
+    background-color: #40c33d;
     color: white;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 /* List items */
 .price li {
     border-bottom: 1px solid #eee;
-    padding: 20px;
+    padding: 12px;
     text-align: center;
     background: #fff;
+
 }
 
 /* Grey list item */
 .price .grey {
     background-color: #eee;
-    font-size: 20px;
+    font-size: 18px;
 }
  
 .button {
-    background-color: #199cdb;
+    background-color: #40c33d;
     border: none;
     color: white;
     padding: 10px 25px;
